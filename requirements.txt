@@ -5,3 +5,4 @@ streamlit==1.65.0
 python-dotenv==1.0.1
 pydantic==2.14.1
 requests
+beautifulsoup4
