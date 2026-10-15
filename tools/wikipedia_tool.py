@@ -1,10 +1,25 @@
 import requests
+from langchain.tools import tool
+import json
 
 HEADERS = {
     "User-Agent": "GoaHeritageCultureGuide/1.0 (MSc AI academic project)"
 }
 
 WIKIPEDIA_API_URL = "https://en.wikipedia.org/w/api.php"
+
+
+@tool
+def wikipedia_tool(query: str) -> dict:
+    """
+    Search Wikipedia for information about a Goa heritage,
+    historical, cultural, or religious topic.
+    """
+    result = lookup_wikipedia(query)
+    return json.dumps(
+        result,
+        ensure_ascii=False,
+    )
 
 
 def lookup_wikipedia(query: str) -> dict:

@@ -1,5 +1,41 @@
 from .heritage_data import HeritagePlace, get_all_places
+from langchain.tools import tool
+import json
 
+@tool
+def heritage_search_tool(
+    query: str = "",
+    district: str = "",
+    area: str = "",
+    type: str = "",
+    theme: str = "",
+    popularity: str = "",
+    locality_level: str = "",
+):
+    """
+    Search the curated Goa heritage dataset.
+
+    Use this tool first when the question is about a known
+    Goa heritage place or when searching the curated dataset
+    can answer the question.
+    """
+
+    results = search_heritage(
+        query=query,
+        district=district,
+        area=area,
+        type=type,
+        theme=theme,
+        popularity=popularity,
+        locality_level=locality_level,
+    )
+
+    formatted_results = format_search_results(results)
+
+    return json.dumps(
+        formatted_results,
+        ensure_ascii=False,
+    )
 
 def search_heritage(
     query: str | None = None,
