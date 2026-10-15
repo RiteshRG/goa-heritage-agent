@@ -1,0 +1,2384 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-10-14",
+  "places": [
+    {
+      "id": "arvalem-rock-cut-caves",
+      "name": "Arvalem Rock-Cut Caves",
+      "aliases": [],
+      "area": "Arvalem",
+      "district": "North Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Arvalem listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage archaeological site in Arvalem, North Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.55252,
+        "longitude": 74.02304
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "aguada-fort",
+      "name": "Aguada Fort",
+      "aliases": [
+        "Aguada Fort (Upper)",
+        "Fortification Wall of Aguada Fort (Lower)"
+      ],
+      "area": "Candolim",
+      "district": "North Goa",
+      "type": "fort",
+      "themes": [
+        "portuguese_history",
+        "colonial_history",
+        "architecture"
+      ],
+      "significance": "A fort in Candolim listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage fort in Candolim, North Goa, useful for discovering portuguese history, colonial history, architecture places.",
+      "locality_level": "major",
+      "popularity": "famous",
+      "coordinates": {
+        "latitude": 15.49169,
+        "longitude": 73.77395
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        },
+        {
+          "title": "Monuments & Structure of Goa (Goa Dept. of Information & Publicity)",
+          "url": "https://dip.goa.gov.in/monuments-structure-of-goa/",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "arch-of-adil-shah-palace",
+      "name": "Arch of Adil Shah's Palace",
+      "aliases": [],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "monument",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A monument in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage monument in Old Goa, North Goa, useful for discovering architecture places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "regional",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.50563,
+        "longitude": 73.91409
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "arch-of-the-viceroy",
+      "name": "Arch of the Viceroy",
+      "aliases": [
+        "Arch of Viceroy"
+      ],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "monument",
+      "themes": [
+        "portuguese_history",
+        "colonial_history",
+        "architecture"
+      ],
+      "significance": "A monument in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage monument in Old Goa, North Goa, useful for discovering portuguese history, colonial history, architecture places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.50575,
+        "longitude": 73.9137
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "basilica-of-bom-jesus",
+      "name": "Basilica of Bom Jesus",
+      "aliases": [
+        "Bom Jesus Basilica"
+      ],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "church",
+      "themes": [
+        "christian_heritage",
+        "portuguese_history",
+        "architecture"
+      ],
+      "significance": "A church in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage church in Old Goa, North Goa, useful for discovering christian heritage, portuguese history, architecture places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "major",
+      "popularity": "famous",
+      "coordinates": {
+        "latitude": 15.50082,
+        "longitude": 73.9114
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        },
+        {
+          "title": "Monuments & Structure of Goa (Goa Dept. of Information & Publicity)",
+          "url": "https://dip.goa.gov.in/monuments-structure-of-goa/",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "chapel-of-st-cajetan",
+      "name": "Chapel of St. Cajetan",
+      "aliases": [
+        "Church of St. Cajetan"
+      ],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "chapel",
+      "themes": [
+        "christian_heritage",
+        "architecture"
+      ],
+      "significance": "A chapel in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage chapel in Old Goa, North Goa, useful for discovering christian heritage, architecture places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.50559,
+        "longitude": 73.91504
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        },
+        {
+          "title": "Monuments & Structure of Goa (Goa Dept. of Information & Publicity)",
+          "url": "https://dip.goa.gov.in/monuments-structure-of-goa/",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "chapel-of-st-catherine",
+      "name": "Chapel of St. Catherine",
+      "aliases": [],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "chapel",
+      "themes": [
+        "christian_heritage",
+        "portuguese_history"
+      ],
+      "significance": "A chapel in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage chapel in Old Goa, North Goa, useful for discovering christian heritage, portuguese history places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "regional",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.50337,
+        "longitude": 73.91043
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "chapel-of-st-francis-xavier",
+      "name": "Chapel of St. Francis Xavier",
+      "aliases": [
+        "Chapel of St. Xavier"
+      ],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "chapel",
+      "themes": [
+        "christian_heritage"
+      ],
+      "significance": "A chapel in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage chapel in Old Goa, North Goa, useful for discovering christian heritage places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "regional",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.50075,
+        "longitude": 73.91922
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        },
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "church-convent-of-st-francis-of-assisi",
+      "name": "Church and Convent of St. Francis of Assisi",
+      "aliases": [
+        "St. Francis of Assisi Church"
+      ],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "church",
+      "themes": [
+        "christian_heritage",
+        "portuguese_history",
+        "architecture"
+      ],
+      "significance": "A church in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage church in Old Goa, North Goa, useful for discovering christian heritage, portuguese history, architecture places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.50312,
+        "longitude": 73.9112
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        },
+        {
+          "title": "Monuments & Structure of Goa (Goa Dept. of Information & Publicity)",
+          "url": "https://dip.goa.gov.in/monuments-structure-of-goa/",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "church-of-our-lady-of-the-rosary",
+      "name": "Church of Our Lady of the Rosary",
+      "aliases": [
+        "Our Lady of Rosary Church"
+      ],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "church",
+      "themes": [
+        "christian_heritage",
+        "architecture"
+      ],
+      "significance": "A church in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage church in Old Goa, North Goa, useful for discovering christian heritage, architecture places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.50177,
+        "longitude": 73.90498
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        },
+        {
+          "title": "Monuments & Structure of Goa (Goa Dept. of Information & Publicity)",
+          "url": "https://dip.goa.gov.in/monuments-structure-of-goa/",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "church-of-st-augustine-old-goa",
+      "name": "Church of St. Augustine",
+      "aliases": [
+        "St. Augustine Church, Old Goa"
+      ],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "church",
+      "themes": [
+        "christian_heritage",
+        "portuguese_history"
+      ],
+      "significance": "A church in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage church in Old Goa, North Goa, useful for discovering christian heritage, portuguese history places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.5005,
+        "longitude": 73.90646
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        },
+        {
+          "title": "Monuments & Structure of Goa (Goa Dept. of Information & Publicity)",
+          "url": "https://dip.goa.gov.in/monuments-structure-of-goa/",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "house-of-bull-old-goa",
+      "name": "House of Bull",
+      "aliases": [],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "monument",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A monument in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage monument in Old Goa, North Goa, useful for discovering architecture places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.50424,
+        "longitude": 73.91384
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "portal-remains-of-st-pauls-college",
+      "name": "Portal Remains of St. Paul's College",
+      "aliases": [],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "monument",
+      "themes": [
+        "christian_heritage",
+        "portuguese_history",
+        "archaeology"
+      ],
+      "significance": "A monument in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage monument in Old Goa, North Goa, useful for discovering christian heritage, portuguese history, archaeology places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "regional",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.49929,
+        "longitude": 73.91831
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "se-cathedral",
+      "name": "Se Cathedral",
+      "aliases": [
+        "Sé Cathedral"
+      ],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "church",
+      "themes": [
+        "christian_heritage",
+        "portuguese_history",
+        "architecture"
+      ],
+      "significance": "A church in Old Goa listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage church in Old Goa, North Goa, useful for discovering christian heritage, portuguese history, architecture places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "major",
+      "popularity": "famous",
+      "coordinates": {
+        "latitude": 15.5038,
+        "longitude": 73.91214
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        },
+        {
+          "title": "Monuments & Structure of Goa (Goa Dept. of Information & Publicity)",
+          "url": "https://dip.goa.gov.in/monuments-structure-of-goa/",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "safa-mosque-ponda",
+      "name": "Safa Mosque",
+      "aliases": [
+        "Safa Masjid"
+      ],
+      "area": "Ponda",
+      "district": "North Goa",
+      "type": "mosque",
+      "themes": [
+        "islamic_heritage",
+        "architecture"
+      ],
+      "significance": "A mosque in Ponda listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage mosque in Ponda, North Goa, useful for discovering islamic heritage, architecture places.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.40656,
+        "longitude": 73.99997
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "chandor-excavated-site",
+      "name": "Excavated Site, Chandor",
+      "aliases": [],
+      "area": "Chandor",
+      "district": "South Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Chandor listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage archaeological site in Chandor, South Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.25861,
+        "longitude": 74.05443
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "mahadev-temple-kurdi",
+      "name": "Mahadev Temple, Kurdi",
+      "aliases": [],
+      "area": "Kurdi",
+      "district": "South Goa",
+      "type": "temple",
+      "themes": [
+        "hindu_heritage",
+        "architecture",
+        "archaeology"
+      ],
+      "significance": "A temple in Kurdi listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage temple in Kurdi, South Goa, useful for discovering hindu heritage, architecture, archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.15412,
+        "longitude": 74.16635
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "mahadev-temple-tambdi-surla",
+      "name": "Mahadev Temple, Tambdi Surla",
+      "aliases": [
+        "Tambdi Surla Mahadev Temple"
+      ],
+      "area": "Tambdi Surla",
+      "district": "South Goa",
+      "type": "temple",
+      "themes": [
+        "hindu_heritage",
+        "architecture"
+      ],
+      "significance": "A temple in Tambdi Surla listed as a Monument of National Importance recognised by the ASI.",
+      "description": "Heritage temple in Tambdi Surla, South Goa, useful for discovering hindu heritage, architecture places.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.43904,
+        "longitude": 74.25255
+      },
+      "sources": [
+        {
+          "title": "List of Monuments of National Importance in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_Monuments_of_National_Importance_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Archaeological Survey of India: Protected monuments in Goa",
+          "url": "https://asi.nic.in/protected-monuments-in-goa/",
+          "source_type": "asi"
+        }
+      ],
+      "verification_status": "verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "fortress-of-colvale",
+      "name": "Fortress of Colvale",
+      "aliases": [],
+      "area": "Colvale",
+      "district": "North Goa",
+      "type": "fort",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A fort in Colvale listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage fort in Colvale, North Goa, useful for discovering architecture places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.63493,
+        "longitude": 73.85062
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "reis-magos-fort",
+      "name": "Reis Magos Fort",
+      "aliases": [],
+      "area": "Reis Magos",
+      "district": "North Goa",
+      "type": "fort",
+      "themes": [
+        "portuguese_history",
+        "colonial_history",
+        "architecture"
+      ],
+      "significance": "A fort in Reis Magos listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage fort in Reis Magos, North Goa, useful for discovering portuguese history, colonial history, architecture places.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.49642,
+        "longitude": 73.80918
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "church-of-reis-magos",
+      "name": "Church of Reis Magos",
+      "aliases": [],
+      "area": "Reis Magos",
+      "district": "North Goa",
+      "type": "church",
+      "themes": [
+        "christian_heritage",
+        "portuguese_history"
+      ],
+      "significance": "A church in Reis Magos listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage church in Reis Magos, North Goa, useful for discovering christian heritage, portuguese history places.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.4978,
+        "longitude": 73.80918
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "chapora-fort",
+      "name": "Chapora Fort",
+      "aliases": [],
+      "area": "Chapora",
+      "district": "North Goa",
+      "type": "fort",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A fort in Chapora listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage fort in Chapora, North Goa, useful for discovering architecture places.",
+      "locality_level": "regional",
+      "popularity": "famous",
+      "coordinates": {
+        "latitude": 15.60528,
+        "longitude": 73.73675
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        },
+        {
+          "title": "Monuments & Structure of Goa (Goa Dept. of Information & Publicity)",
+          "url": "https://dip.goa.gov.in/monuments-structure-of-goa/",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "fortress-of-khorjuve",
+      "name": "Fortress of Khorjuve",
+      "aliases": [],
+      "area": "Khorjuve",
+      "district": "North Goa",
+      "type": "fort",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A fort in Khorjuve listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage fort in Khorjuve, North Goa, useful for discovering architecture places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.5968,
+        "longitude": 73.89278
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "cabo-de-rama-fort",
+      "name": "Cabo de Rama Fort",
+      "aliases": [],
+      "area": "Cabo de Rama",
+      "district": "South Goa",
+      "type": "fort",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A fort in Cabo de Rama listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage fort in Cabo de Rama, South Goa, useful for discovering architecture places.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.08878,
+        "longitude": 73.92159
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "caves-at-naroa",
+      "name": "Caves at Naroa",
+      "aliases": [],
+      "area": "Naroa",
+      "district": "North Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Naroa listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Naroa, North Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.55531,
+        "longitude": 73.93498
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "saptakoteshwar-temple-naroa",
+      "name": "Temples of Saptakoteshwar, Naroa",
+      "aliases": [],
+      "area": "Naroa",
+      "district": "North Goa",
+      "type": "temple",
+      "themes": [
+        "hindu_heritage",
+        "architecture"
+      ],
+      "significance": "A temple in Naroa listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage temple in Naroa, North Goa, useful for discovering hindu heritage, architecture places.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.55421,
+        "longitude": 73.93715
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "site-of-gujir-kudnem",
+      "name": "Site of Gujir",
+      "aliases": [],
+      "area": "Kudnem",
+      "district": "North Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Kudnem listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Kudnem, North Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.54506,
+        "longitude": 74.00737
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "fort-of-sanquelim",
+      "name": "Fort of Sanquelim",
+      "aliases": [],
+      "area": "Sanquelim",
+      "district": "North Goa",
+      "type": "fort",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A fort in Sanquelim listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage fort in Sanquelim, North Goa, useful for discovering architecture places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.56678,
+        "longitude": 74.00683
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "namazgah-bicholim",
+      "name": "Namazgah, Bicholim",
+      "aliases": [],
+      "area": "Bicholim",
+      "district": "North Goa",
+      "type": "monument",
+      "themes": [
+        "islamic_heritage"
+      ],
+      "significance": "A monument in Bicholim listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage monument in Bicholim, North Goa, useful for discovering islamic heritage places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.58246,
+        "longitude": 73.94611
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "cave-of-siddhanath-tar-surla",
+      "name": "Cave of Siddhanath at Tar Surla",
+      "aliases": [],
+      "area": "Surla",
+      "district": "North Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Surla listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Surla, North Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.49963,
+        "longitude": 74.02458
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "mosque-and-tank-tar-surla",
+      "name": "Mosque and Tank at Tar Surla",
+      "aliases": [],
+      "area": "Surla",
+      "district": "North Goa",
+      "type": "mosque",
+      "themes": [
+        "islamic_heritage",
+        "architecture"
+      ],
+      "significance": "A mosque in Surla listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage mosque in Surla, North Goa, useful for discovering islamic heritage, architecture places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.49762,
+        "longitude": 74.01859
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "fort-of-marmagoa",
+      "name": "Fort of Marmagoa",
+      "aliases": [],
+      "area": "Marmagoa",
+      "district": "South Goa",
+      "type": "fort",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A fort in Marmagoa listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage fort in Marmagoa, South Goa, useful for discovering architecture places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.41173,
+        "longitude": 73.79417
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "kaivailya-math-site-consua",
+      "name": "Site of Kaivailya Math at Consua",
+      "aliases": [],
+      "area": "Consua",
+      "district": "South Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "hindu_heritage",
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Consua listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Consua, South Goa, useful for discovering hindu heritage, archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.37163,
+        "longitude": 73.92445
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "frontispices-of-sancoale",
+      "name": "Frontispices of Sancoale",
+      "aliases": [],
+      "area": "Sancoale",
+      "district": "South Goa",
+      "type": "monument",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A monument in Sancoale listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage monument in Sancoale, South Goa, useful for discovering architecture places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.40639,
+        "longitude": 73.89316
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "shri-saptakoteshwar-ponda",
+      "name": "Shri Saptakoteshwar, Ponda",
+      "aliases": [],
+      "area": "Ponda",
+      "district": "North Goa",
+      "type": "temple",
+      "themes": [
+        "hindu_heritage"
+      ],
+      "significance": "A temple in Ponda listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage temple in Ponda, North Goa, useful for discovering hindu heritage places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.41956,
+        "longitude": 74.04794
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "shri-mahadev-temple-ponda",
+      "name": "Shri Mahadev Temple, Ponda",
+      "aliases": [],
+      "area": "Ponda",
+      "district": "North Goa",
+      "type": "temple",
+      "themes": [
+        "hindu_heritage"
+      ],
+      "significance": "A temple in Ponda listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage temple in Ponda, North Goa, useful for discovering hindu heritage places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.4449,
+        "longitude": 73.96638
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "needs_review",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "ruins-of-jain-basti-ponda",
+      "name": "Ruins of Jain Basti, Ponda",
+      "aliases": [],
+      "area": "Ponda",
+      "district": "North Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "religion",
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Ponda listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Ponda, North Goa, useful for discovering religion, archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.40589,
+        "longitude": 73.98325
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "fort-of-alorna",
+      "name": "Fort of Alorna",
+      "aliases": [],
+      "area": "Alorna",
+      "district": "North Goa",
+      "type": "fort",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A fort in Alorna listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage fort in Alorna, North Goa, useful for discovering architecture places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.70017,
+        "longitude": 73.90538
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "terekhol-fort",
+      "name": "Terekhol Fort",
+      "aliases": [
+        "Tiracol Fort"
+      ],
+      "area": "Terekhol",
+      "district": "North Goa",
+      "type": "fort",
+      "themes": [
+        "portuguese_history",
+        "colonial_history",
+        "architecture"
+      ],
+      "significance": "A fort in Terekhol listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage fort in Terekhol, North Goa, useful for discovering portuguese history, colonial history, architecture places.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.72139,
+        "longitude": 73.68656
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        },
+        {
+          "title": "Monuments & Structure of Goa (Goa Dept. of Information & Publicity)",
+          "url": "https://dip.goa.gov.in/monuments-structure-of-goa/",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "caves-at-khandepar",
+      "name": "Caves at Khandepar",
+      "aliases": [],
+      "area": "Khandepar",
+      "district": "North Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Khandepar listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Khandepar, North Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.42917,
+        "longitude": 74.0498
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "cave-at-ishwarbhat",
+      "name": "Cave at Ishwarbhat",
+      "aliases": [],
+      "area": "Ishwarbhat",
+      "district": "North Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Ishwarbhat listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Ishwarbhat, North Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.4434,
+        "longitude": 74.04105
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "cave-at-mangeshi",
+      "name": "Cave at Mangeshi",
+      "aliases": [],
+      "area": "Mangeshi",
+      "district": "North Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Mangeshi listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Mangeshi, North Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.45474,
+        "longitude": 73.96616
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "shri-nagesh-temple-ponda",
+      "name": "Shri Nagesh Temple",
+      "aliases": [
+        "Sri Naguesh Temple"
+      ],
+      "area": "Ponda",
+      "district": "North Goa",
+      "type": "temple",
+      "themes": [
+        "hindu_heritage",
+        "architecture"
+      ],
+      "significance": "A temple in Ponda listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage temple in Ponda, North Goa, useful for discovering hindu heritage, architecture places.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.40746,
+        "longitude": 73.9837
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        },
+        {
+          "title": "Monuments & Structure of Goa (Goa Dept. of Information & Publicity)",
+          "url": "https://dip.goa.gov.in/monuments-structure-of-goa/",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "shri-kamakshi-temple-ponda",
+      "name": "Shri Kamakshi Temple",
+      "aliases": [],
+      "area": "Ponda",
+      "district": "North Goa",
+      "type": "temple",
+      "themes": [
+        "hindu_heritage",
+        "architecture"
+      ],
+      "significance": "A temple in Ponda listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage temple in Ponda, North Goa, useful for discovering hindu heritage, architecture places.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.32091,
+        "longitude": 74.0348
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "shri-chandranath-paroda",
+      "name": "Shri Chandranath, Paroda",
+      "aliases": [],
+      "area": "Paroda",
+      "district": "South Goa",
+      "type": "temple",
+      "themes": [
+        "hindu_heritage"
+      ],
+      "significance": "A temple in Paroda listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage temple in Paroda, South Goa, useful for discovering hindu heritage places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.21342,
+        "longitude": 74.03656
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "rock-carvings-of-kazur",
+      "name": "Rock Carvings of Kazur",
+      "aliases": [],
+      "area": "Kazur",
+      "district": "South Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Kazur listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Kazur, South Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.07847,
+        "longitude": 74.16138
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "ruins-of-mangueshi-temple-cortalim",
+      "name": "Site of Ruins of Mangueshi Temple, Cortalim",
+      "aliases": [],
+      "area": "Cortalim",
+      "district": "South Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "hindu_heritage",
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Cortalim listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Cortalim, South Goa, useful for discovering hindu heritage, archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.38905,
+        "longitude": 73.9208
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "ruins-of-shantadurga-temple-quelossim",
+      "name": "Site of Ruins of Shantadurga Temple, Quelossim",
+      "aliases": [],
+      "area": "Quelossim",
+      "district": "South Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "hindu_heritage",
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Quelossim listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Quelossim, South Goa, useful for discovering hindu heritage, archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.38762,
+        "longitude": 73.93851
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "ruins-of-ramnath-temple-loutolim",
+      "name": "Site of Ruins of Ramnath Temple, Loutolim",
+      "aliases": [],
+      "area": "Loutolim",
+      "district": "South Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "hindu_heritage",
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Loutolim listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Loutolim, South Goa, useful for discovering hindu heritage, archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.3422,
+        "longitude": 73.98063
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "ruins-and-tank-of-mahalsa-temple",
+      "name": "Ruins and Tank of the Temple of Mahalsa",
+      "aliases": [],
+      "area": "Salcete",
+      "district": "South Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "hindu_heritage",
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Salcete listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Salcete, South Goa, useful for discovering hindu heritage, archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.35928,
+        "longitude": 73.94419
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "gate-of-rachol-fortress",
+      "name": "Gate of Rachol Fortress",
+      "aliases": [],
+      "area": "Rachol",
+      "district": "South Goa",
+      "type": "monument",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A monument in Rachol listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage monument in Rachol, South Goa, useful for discovering architecture places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.30854,
+        "longitude": 74.00089
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "caves-of-aquem",
+      "name": "Caves of Aquem",
+      "aliases": [],
+      "area": "Aquem",
+      "district": "South Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Aquem listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Aquem, South Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.27254,
+        "longitude": 73.97079
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "caves-at-rivona",
+      "name": "Caves at Rivona",
+      "aliases": [],
+      "area": "Rivona",
+      "district": "South Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Rivona listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Rivona, South Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.16128,
+        "longitude": 74.11016
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "rock-carving-pansaimal-usgalimal",
+      "name": "Rock Carvings at Pansaimal / Usgalimal",
+      "aliases": [],
+      "area": "Usgalimal",
+      "district": "South Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Usgalimal listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Usgalimal, South Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.12083,
+        "longitude": 74.13306
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "cave-at-shigao",
+      "name": "Cave at Shigao",
+      "aliases": [],
+      "area": "Shigao",
+      "district": "South Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Shigao listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Shigao, South Goa, useful for discovering archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.33083,
+        "longitude": 74.20095
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "site-of-narayandev-vichundre",
+      "name": "Site of Narayandev at Vichundre",
+      "aliases": [],
+      "area": "Vichundre",
+      "district": "South Goa",
+      "type": "traditional_site",
+      "themes": [
+        "religion",
+        "archaeology"
+      ],
+      "significance": "A traditional site in Vichundre listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage traditional site in Vichundre, South Goa, useful for discovering religion, archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.10177,
+        "longitude": 74.19339
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "ruins-of-brahmapuri-old-goa",
+      "name": "Ruins of Brahmapuri",
+      "aliases": [],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Old Goa listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Old Goa, North Goa, useful for discovering archaeology places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.48987,
+        "longitude": 73.91601
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "chapel-of-our-lady-of-the-mount",
+      "name": "Chapel of Our Lady of the Mount",
+      "aliases": [
+        "Chapel of Our Lady of Monte"
+      ],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "chapel",
+      "themes": [
+        "christian_heritage"
+      ],
+      "significance": "A chapel in Old Goa listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage chapel in Old Goa, North Goa, useful for discovering christian heritage places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.50446,
+        "longitude": 73.92332
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "convent-of-st-monica",
+      "name": "Convent of St. Monica and Chapel",
+      "aliases": [],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "convent",
+      "themes": [
+        "christian_heritage",
+        "portuguese_history",
+        "architecture"
+      ],
+      "significance": "A convent in Old Goa listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage convent in Old Goa, North Goa, useful for discovering christian heritage, portuguese history, architecture places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "regional",
+      "popularity": "moderate",
+      "coordinates": {
+        "latitude": 15.50138,
+        "longitude": 73.9075
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "ruins-of-college-of-st-populo",
+      "name": "Ruins of College of St. Populo",
+      "aliases": [],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "monument",
+      "themes": [
+        "christian_heritage",
+        "portuguese_history"
+      ],
+      "significance": "A monument in Old Goa listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage monument in Old Goa, North Goa, useful for discovering christian heritage, portuguese history places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.49869,
+        "longitude": 73.90596
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "church-of-st-peter",
+      "name": "Church of St. Peter",
+      "aliases": [],
+      "area": "Old Goa",
+      "district": "North Goa",
+      "type": "church",
+      "themes": [
+        "christian_heritage"
+      ],
+      "significance": "A church in Old Goa listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage church in Old Goa, North Goa, useful for discovering christian heritage places. Part of the Old Goa cluster of historic monuments.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.5003,
+        "longitude": 73.89724
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "casa-da-polvora",
+      "name": "Casa da Polvora",
+      "aliases": [],
+      "area": "Panelim",
+      "district": "North Goa",
+      "type": "monument",
+      "themes": [
+        "colonial_history"
+      ],
+      "significance": "A monument in Panelim listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage monument in Panelim, North Goa, useful for discovering colonial history places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.50282,
+        "longitude": 73.91023
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "fort-naroa",
+      "name": "Fort Naroa",
+      "aliases": [],
+      "area": "Naroa Divadi",
+      "district": "North Goa",
+      "type": "fort",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A fort in Naroa Divadi listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage fort in Naroa Divadi, North Goa, useful for discovering architecture places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.53809,
+        "longitude": 73.92218
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "site-of-saptakoteshwar-temple-naroa-divadi",
+      "name": "Site of the Temple of Saptakoteshwar, Naroa Divadi",
+      "aliases": [],
+      "area": "Naroa Divadi",
+      "district": "North Goa",
+      "type": "archaeological_site",
+      "themes": [
+        "hindu_heritage",
+        "archaeology"
+      ],
+      "significance": "An archaeological site in Naroa Divadi listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage archaeological site in Naroa Divadi, North Goa, useful for discovering hindu heritage, archaeology places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.53128,
+        "longitude": 73.9262
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "chapel-of-st-jeronimus",
+      "name": "Chapel of St. Jeronimus",
+      "aliases": [],
+      "area": "Madel, Chodan",
+      "district": "North Goa",
+      "type": "chapel",
+      "themes": [
+        "christian_heritage"
+      ],
+      "significance": "A chapel in Madel, Chodan listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage chapel in Madel, Chodan, North Goa, useful for discovering christian heritage places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.52726,
+        "longitude": 73.87747
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "british-cemetery-dona-paula",
+      "name": "British Cemetery at Dona Paula",
+      "aliases": [],
+      "area": "Dona Paula",
+      "district": "North Goa",
+      "type": "cemetery",
+      "themes": [
+        "colonial_history"
+      ],
+      "significance": "A cemetery in Dona Paula listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage cemetery in Dona Paula, North Goa, useful for discovering colonial history places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.45823,
+        "longitude": 73.7977
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "site-of-fortress-st-estevam",
+      "name": "Site of Fortress at St. Estevam",
+      "aliases": [],
+      "area": "St. Estevam",
+      "district": "North Goa",
+      "type": "fort",
+      "themes": [
+        "architecture"
+      ],
+      "significance": "A fort in St. Estevam listed as a State Protected Monument listed by the Archaeological Survey of India.",
+      "description": "Heritage fort in St. Estevam, North Goa, useful for discovering architecture places.",
+      "locality_level": "local",
+      "popularity": "lesser_known",
+      "coordinates": {
+        "latitude": 15.53601,
+        "longitude": 73.95435
+      },
+      "sources": [
+        {
+          "title": "List of State Protected Monuments in Goa (Wikipedia, citing ASI)",
+          "url": "https://en.wikipedia.org/wiki/List_of_State_Protected_Monuments_in_Goa",
+          "source_type": "wikipedia"
+        },
+        {
+          "title": "Government of Goa, Department of Archaeology",
+          "url": "https://archaeology.goa.gov.in/?p=55",
+          "source_type": "government"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    },
+    {
+      "id": "mangueshi-temple",
+      "name": "Mangueshi Temple",
+      "aliases": [
+        "Shri Manguesh Temple",
+        "Shri Mangeshi Temple"
+      ],
+      "area": "Priol (Mangueshi)",
+      "district": "North Goa",
+      "type": "temple",
+      "themes": [
+        "hindu_heritage",
+        "religion",
+        "local_tradition"
+      ],
+      "significance": "One of Goa's well-known Hindu temples, listed among the temples of Goa by the Government of Goa.",
+      "description": "Heritage temple in Priol (Mangueshi), North Goa, useful for discovering hindu heritage, religion, local tradition places.",
+      "locality_level": "regional",
+      "popularity": "famous",
+      "coordinates": {
+        "latitude": 15.44051,
+        "longitude": 73.97267
+      },
+      "sources": [
+        {
+          "title": "Monuments & Structure of Goa (Goa Dept. of Information & Publicity)",
+          "url": "https://dip.goa.gov.in/monuments-structure-of-goa/",
+          "source_type": "government"
+        },
+        {
+          "title": "Mangueshi Temple (Sygic Travel)",
+          "url": "https://travel.sygic.com/cs/poi/mangueshi-temple-poi:24144",
+          "source_type": "reputable_secondary"
+        },
+        {
+          "title": "Mangueshi Temple (Wikipedia)",
+          "url": "https://en.wikipedia.org/wiki/Mangueshi_Temple",
+          "source_type": "wikipedia"
+        }
+      ],
+      "verification_status": "partially_verified",
+      "last_verified": "2026-10-14"
+    }
+  ]
+}
